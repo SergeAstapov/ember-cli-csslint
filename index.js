@@ -1,6 +1,4 @@
 var csslintTree = require('broccoli-csslint');
-var removeFiles = require('broccoli-file-remover');
-var broccoli = require('broccoli');
 
 'use strict';
 

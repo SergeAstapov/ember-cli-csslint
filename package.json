@@ -42,8 +42,6 @@
     "configPath": "tests/dummy/config"
   },
   "dependencies": {
-    "broccoli": "^0.13.3",
-    "broccoli-csslint": "^1.0.0",
-    "broccoli-file-remover": "^0.3.1"
+    "broccoli-csslint": "github:sergeastapov/broccoli-csslint#master"
   }
 }
